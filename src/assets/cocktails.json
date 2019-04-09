@@ -1,0 +1,17 @@
+[
+    {
+        "name": "First Cocktail",
+        "price": 23,
+        "img": "Img"
+    },
+    {
+        "name": "Second Cocktail",
+        "price": 18,
+        "img": "Img"
+    },
+    {
+        "name": "Third Cocktail",
+        "price": 24,
+        "img": "Img"
+    }
+]
